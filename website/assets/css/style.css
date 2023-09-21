@@ -1,3 +1,9 @@
 body{
     background: #BDBDBD;
 }
+.services{
+    display: flex;
+}
+.services p {
+    text-align: justify;
+}
